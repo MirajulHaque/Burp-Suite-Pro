@@ -25,7 +25,7 @@
 - [1] - java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"PATH\loader.jar" -noverify -jar "PATH\burpsuite_pro_v2022.*.*.jar"
 - [2] - java -jar keygen.jar
 - [3] - Activation
-	* Modify License String like "license to <Your Name>"
+	* Modify License String like "license to (Your Name)"
 	* Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.
 	* Select Manual Activation Option on your bottom Right in Burp Suite Pro.
 	* Copy License Request from BurpSuite_Pro and paste in keygen.jar
